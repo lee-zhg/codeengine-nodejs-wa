@@ -1,5 +1,5 @@
 # Use Ubuntu 20.04 base image
-FROM ubuntu:22.04
+FROM ubuntu:focal
 
 # Set the working directory
 WORKDIR /app
