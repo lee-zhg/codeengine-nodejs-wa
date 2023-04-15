@@ -1,5 +1,5 @@
 # Use Ubuntu 20.04 base image
-FROM ubuntu:23.04
+FROM ubuntu:22.10
 
 # Set the working directory
 WORKDIR /app
